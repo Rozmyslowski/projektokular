@@ -75,7 +75,7 @@ header {
 
 	.hero-img {
 		position: relative;
-		background-image: url(./img/man-small.jpg);
+		background-image: url(../img/man-small.jpg);
 		background-position: center;
 		background-size: cover;
 		background-attachment: fixed;
@@ -253,7 +253,7 @@ header {
 @media (min-width: 1200px) {
 	header {
 		.hero-img {
-			background-image: url(/img/man-big.jpg);
+			background-image: url(../img/man-big.jpg);
 		}
 	}
 }
